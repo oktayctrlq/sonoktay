@@ -1,5 +1,8 @@
 # OKTAY DUMAN - 2200674014
 
+![Stack Structure](FOTO.png)
+
+
 
 # 🧱 Custom Stack Implementation Using Linked List in Python
 
